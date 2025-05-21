@@ -4,7 +4,7 @@ export default function NavBar(){
     return(
        <div className="Nav">
         <div>
-            <img className="logo" src="https://play-lh.googleusercontent.com/TdGt-KKAmiTh17cJcejDSvfGOs_UbYp_uot-rWao1tXFzvzNUlEFH-AU9AimSI7805gM=w600-h300-pc0xffffff-pd" width={175} height={100} alt="goo"/>
+            <img className="logo" src={logo} width={170} height={98} alt="goo"/>
         </div>
 
         <div className="logos">
