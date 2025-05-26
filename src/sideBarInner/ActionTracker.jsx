@@ -1,5 +1,5 @@
-export default function Actiontaker() {
+export default function Actionaker() {
     return(
-<h1>Actiontaker Component</h1>
+      <h1>ActionTaker Component</h1>
     )
 }
