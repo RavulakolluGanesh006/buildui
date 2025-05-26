@@ -1,5 +1,5 @@
-export default function Actiontracker() {
+export default function Actionaker() {
     return(
-<h1>Actiontracker Component</h1>
+      <h1>ActionTaker Component</h1>
     )
 }

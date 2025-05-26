@@ -1,5 +1,5 @@
-export default function Contractormanagement() {
+export default function contractormanagement() {
     return(
-<h1>Contractormanagement Component</h1>
+<h1>contractormanagement Component</h1>
     )
 }
